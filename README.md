@@ -2,7 +2,7 @@
 
 A pipeline that scrapes Yahoo Japan news articles and user comments, performs Japanese-language sentiment analysis on user comments and JP -> EN translation and summarization of articles, and visualizes sentiment distributions across news categories through a Streamlit dashboard. 
 
-Over 400+ articles and 200,000+ user comments processed and analyzed using Transformer Models from Hugging Face and Ollama.
+Over 500+ articles and 200,000+ user comments processed and analyzed using Transformer Models from Hugging Face and Ollama.
 
 Data source: https://news.yahoo.co.jp/
 
