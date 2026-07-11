@@ -1,5 +1,7 @@
 # Japan News User Sentiment Analysis Pipeline
 
+<img src="assets/jp_news_sentiment_pipeline.png" width="900">
+
 A pipeline that scrapes Japan news articles and user comments, performs Japanese-language sentiment analysis on user comments and JP -> EN translation and summarization of articles, and visualizes sentiment distributions across news categories through a Streamlit dashboard. 
 
 Over 700+ articles and 300,000+ user comments processed and analyzed using Transformer Models from Hugging Face and Ollama.
